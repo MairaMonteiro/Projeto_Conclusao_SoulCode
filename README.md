@@ -30,3 +30,7 @@ No final de 2019 já podiam ser lidas notícias acerca de um possível vírus em
 -Por meio de uma PIPELINE fazer o carregamento dos dados normalizados diretamente para um DW ou DataLake ou ambos.
 
 -Montar um relatório completo com os insights que justificam todo o processo de ETL utilizado
+
+
+### Equipe
+Esse projeto foi feito em conjunto com [Ewerton Silva](https://github.com/ewertonsilvag) e [Patrícia Toledo](https://github.com/PatyToledo)
